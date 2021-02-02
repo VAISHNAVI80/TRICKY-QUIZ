@@ -1,0 +1,12 @@
+class Contestant{
+    
+    constructor(){
+
+    }
+
+display()
+{
+    
+}
+
+}
